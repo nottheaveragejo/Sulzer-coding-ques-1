@@ -1,0 +1,78 @@
+h1{
+	color:#4F4D53;
+	font-size: 100px;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+}
+
+h2{
+	color:#E8BE02;
+	font-size: 64px;
+	font-family: 'Roboto', sans-serif;
+}
+
+h3{
+	font-size: 20px;
+	color:#E8BE02;
+	font-family: 'Roboto', sans-serif;
+}
+
+h4{
+	font-size: 14px;
+	color:#FFFFFF;
+	font-family: 'Roboto', sans-serif;
+}
+p{
+	font-size: 20px;
+	color:#4F4D53;
+	text-align: center;
+	width: 900px;
+	font-family: 'Roboto', sans-serif;
+}
+
+
+#head{
+	color: white;
+	background-color: #4F4D53;
+	width:100vw;
+	display: flex;
+	height: 48px;
+	align-items: center;
+}
+
+#head h1{
+	margin-left: 200px;
+}
+
+#intro{
+	border:1px solid red;
+	background-image: url('media/img_hero.jpg')
+}
+
+.images{
+	display: flex;
+	margin-left: 300px;
+	justify-content: space-around;
+}
+
+#img1{
+	background-image: url('media/img_danielle_circle.jpg')
+}
+}
+
+.info{
+	border-top:12px solid #E8BE02;
+ 	height: 320px;
+ 	background-color:  #4F4D53;
+ 	display: flex;
+ 	justify-content: space-around;
+}
+
+.about{
+	margin-left: 100px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	width: 900px;
+}
